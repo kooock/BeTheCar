@@ -1,6 +1,6 @@
 # BeTheCar
 
-- protocol demo
+- Android ECU Protocol demo
 
 ## Describe
 
