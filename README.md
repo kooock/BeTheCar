@@ -15,3 +15,7 @@ Those block will be stored as public data with blockchain technology.
 ## DEMO Video
 
 - https://youtu.be/FCnzwaIp9d0
+
+## PPT
+
+- https://www.slideshare.net/secret/fQjiGDSBW1kdnO
